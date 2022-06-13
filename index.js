@@ -17,7 +17,7 @@ const Username = readline.question('𝙀𝙣𝙩𝙚𝙧 𝙐𝙨𝙚𝙧𝙣�
 
 //amount
 console.log('𝙒𝙖𝙧𝙣𝙞𝙣𝙜: 𝘽𝙤𝙩 𝙖𝙢𝙤𝙪𝙣𝙩𝙨 𝙩𝙤𝙤 𝙝𝙞𝙜𝙝 𝙬𝙞𝙡𝙡 𝙣𝙤𝙩 𝙬𝙤𝙧𝙠');
-const Amount = readline.question('𝙀𝙣𝙩𝙚𝙧 𝘼𝙢𝙤𝙪𝙣𝙩: ');
+const Amount = readline.question('𝙀𝙣𝙩𝙚𝙧 𝘼𝙢𝙤𝙪𝙣𝙩: 100');
 
 //ruin correct percentage
 const Answer = readline.question('𝘽𝙤𝙩𝙨 𝙘𝙝𝙤𝙤𝙨𝙚 𝙧𝙖𝙣𝙙𝙤𝙢 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣𝙨? (𝙮/𝙣) ');
